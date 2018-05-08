@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Compare-Arrays", "CSharp-Compare-Arrays\CSharp-Compare-Arrays.csproj", "{9BCE66CC-65EE-43DB-878C-44C81E26CC73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BCE66CC-65EE-43DB-878C-44C81E26CC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCE66CC-65EE-43DB-878C-44C81E26CC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCE66CC-65EE-43DB-878C-44C81E26CC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCE66CC-65EE-43DB-878C-44C81E26CC73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B92726B-6500-46C2-A484-2D714B89CEF5}
+	EndGlobalSection
+EndGlobal
